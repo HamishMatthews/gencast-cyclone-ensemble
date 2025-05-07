@@ -1,0 +1,10 @@
+# Ignore .nc and .pnz files
+*.nc
+*.npz
+
+# Ignore stats folder
+stats/
+
+# Ignore era5_cache folder
+era5_cache/
+.venv
